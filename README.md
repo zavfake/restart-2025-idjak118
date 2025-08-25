@@ -17,7 +17,7 @@ Happy coding!
 Kode latihan python untuk kelas IDJAK118
 
 
-# How to integrate cloud 9 with github
+# How to integrate cloud 9 with GitHub
 
 <img width="733" height="433" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/2d5f90cd-3e3a-4ec0-8349-f13e1126be29" />
 
